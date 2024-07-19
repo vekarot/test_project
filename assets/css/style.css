@@ -56,7 +56,7 @@
 }
 
 #hero-section-2-part-1 {
-    background-image: url('/image/hero1.png');
+    background-image: url('/assets/image/hero1.png');
     margin: 0;
     width: 700px;
     height: 600px;
@@ -66,7 +66,7 @@
 }
 
 #hero-section-2-part-2 {
-    background-image: url('/image/hero2.jfif');
+    background-image: url('/assets/image/hero2.jfif');
     margin: 0;
     width: 700px;
     height: 600px;
@@ -477,6 +477,7 @@
 #home-articles {
     margin-top: 400px;
     background: radial-gradient(circle at top left, #e7fae0 0%, #b2ebf2 30%, transparent 50%);
+    padding-top: 30px;
 }
 
 #home-articles-small-title {
@@ -496,6 +497,7 @@
     text-align: center;
     color: #1B1C57;
     text-transform: capitalize;
+    padding-top: 20px;
 }
 
 #homes-articles-button button {
@@ -505,6 +507,7 @@
     color: white;
     padding: 10px 15px;
     border: none;
+    margin-top: 20px;
 }
 
 #home-article-owner {
@@ -615,7 +618,7 @@
 }
 
 #banner-main-area {
-    background: url('./image/banner.png');
+    background: url('/assets/image/banner.png');
     padding: 100px 0px;
     border-radius: 32px;
 
