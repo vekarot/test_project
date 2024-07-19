@@ -16,14 +16,11 @@
 }
 
 #hero-section-1-logo-1 {
-    /* Rectangle 8 */
     position: absolute;
     width: 32.7px;
     height: 32px;
     left: 91.23px;
     top: 45px;
-
-    /* Yellow / 500 */
     background: #F59E0B;
     border-radius: 4px 4px 24px 4px;
 
@@ -79,7 +76,6 @@
 }
 
 #hero-section-1-title {
-    /* find the place to live your dreams easily here */
     margin-top: 100px;
     margin-left: 100px;
     font-family: 'Lexend';
@@ -95,7 +91,7 @@
     font-family: Arial, sans-serif;
     font-size: 40px;
     font-weight: bold;
-    color: #E0FBFB; /* Light cyan color for the fill */
+    color: #E0FBFB;
     text-shadow: 
     -1px -1px 0 #626687,
     1px -1px 0 #626687,
