@@ -1,0 +1,800 @@
+/* Hero Section */
+
+#hero-section {
+    background: radial-gradient(circle at top left, #e7fae0 0%, #b2ebf2 30%, transparent 50%);
+}
+
+
+#hero-section-1-logo-2 {
+    /* Rectangle 9 */
+
+    position: absolute;
+    width: 32.7px;
+    height: 32px;
+    left: 95.32px;
+    top: 49px;
+
+    background: #4BE4C9;
+    border-radius: 4px 4px 24px 4px;
+}
+
+#hero-section-1-logo-1 {
+    /* Rectangle 8 */
+    position: absolute;
+    width: 32.7px;
+    height: 32px;
+    left: 91.23px;
+    top: 45px;
+
+    /* Yellow / 500 */
+    background: #F59E0B;
+    border-radius: 4px 4px 24px 4px;
+
+}
+
+#hero-section-1-title-header {
+    position: absolute;
+    width: 32.7px;
+    height: 32px;
+    left: 140px;
+    top: 55px;
+    font-family: Lexend;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: left;
+    color: #1B1C57
+}
+
+
+#hero-section-1-search-input img {
+    width: 5%;
+}
+
+#hero-section-2-nav-content li {
+    float: right;
+    padding: 0px 20px;
+    margin-right: 30px;
+    margin-top: 30px;
+    display: block;
+    background: transparent;
+    color: white;
+}
+
+#hero-section-2-part-1 {
+    background-image: url('/image/hero1.png');
+    margin: 0;
+    width: 700px;
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-bottom-left-radius: 20%;
+}
+
+#hero-section-2-part-2 {
+    background-image: url('/image/hero2.jfif');
+    margin: 0;
+    width: 700px;
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-bottom-left-radius: 20%;
+}
+
+#hero-section-1-title {
+    /* find the place to live your dreams easily here */
+    margin-top: 100px;
+    margin-left: 100px;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: capitalize;
+    color: #1B1C57;
+}
+
+#hero-section-1-title-special {
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: #E0FBFB; /* Light cyan color for the fill */
+    text-shadow: 
+    -1px -1px 0 #626687,
+    1px -1px 0 #626687,
+    -1px 1px 0 #626687,
+    1px 1px 0 #626687;
+}
+
+#hero-section-1-summary {
+    margin-left: 100px;
+    padding: 20px 0px;
+    width: 90%;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #626687;
+}
+
+#hero-section-1-search {
+    margin-left: 90px;
+    background-color: white;
+    margin-top: 40px;
+    padding-left: 10px;
+    padding-right: 100px;
+}
+
+#hero-section-1-search-input{
+    padding-top: 5px;
+    padding-right: 20px;
+}
+
+#hero-section-1-search input {
+    border: none;
+}
+
+#hero-section-1-search-icon {
+    margin-top: 10px;
+    padding-left: 30px;
+}
+
+#hero-section-1-search-icon img {
+    width: 40%;
+}
+
+#hero-section-1-search button {
+    width: 109px;
+    height: 48px;
+    background: #10B981;
+    border-radius: 32px;
+    color: white;
+
+}
+
+#hero-section-1-partners {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+#hero-section-1-partners-title {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #888B97;
+}
+
+#hero-section-1-partners span img {
+    width: 15%;
+    padding-right: 20px;
+}
+
+#hero-section-2-bullets {
+    margin-top: 400px;
+    margin-left: 40px;
+}
+
+#hero-section-2-bullet-1 {
+    background-color: white;
+    padding: 10px 0px;
+}
+
+#hero-section-2-bullet-2{
+    background-color: white;
+    margin-left: 30px;
+}
+
+#bullet-1-title {
+    color: #1B1C57;
+    font-family: Lexend;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+}
+
+#bullet-1-content {
+    color: #68799F;
+    font-family: Lexend;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    
+
+}
+
+#bullet-2-title {
+    color: #1B1C57;
+    font-family: Lexend;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    padding-top: 20px;
+}
+
+#bullet-2-content {
+    color: #68799F;
+    font-family: Lexend;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+}
+
+#hero-section-2-bullet-1-avatar {
+    margin-left: 20px;
+}
+
+#hero-section-2-bullet-1-avatar img {
+    width: 40%;
+    border-radius: 100%;
+    margin-right: -25px;
+    border: solid white;
+    margin-top: 10px;
+}
+
+
+#hero-section-2-bullet-2-avatar img {
+    margin-top: 5px;
+    width: 70%;
+    border-radius: 100%;
+    height: 100%;
+    margin-top: 10px;
+}
+
+/* Recommendation */
+#rec-section-small-title {
+    color: #F59E0B;
+    font-family: Lexend;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+}
+
+#rec-section-big-title {
+    color: #1B1C57;
+    font-family: Lexend;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+
+#rec-section-nav a {
+    color: #888B97;
+    
+}
+
+#rec-section-nav .nav-item {
+    border: solid lightgrey;
+    border-width: 2px;
+}
+
+#rec-section-nav .active {
+    background-color: #D1FAE5;
+    border: none;
+}
+
+#rec-section-nav .active a {
+    color: #10B981;
+}
+
+#rec-section-nav img {
+    width: 5%;
+    border-width: 1%;
+}
+
+#rec-selection-house {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    color: #0E1735;
+    padding-top: 20px;
+}
+
+#rec-selection-price {
+    font-family: Lexend;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left;
+    color: #0E1735;
+}
+
+#rec-selection-owner-details img {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+
+#rec-selection-owner-name {
+    font-family: Lexend;
+    font-weight: 500;
+    text-align: left;
+    color: #0E1735;
+}
+
+#rec-selection-place {
+    font-family: Lexend;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: left;
+    color:#888B97
+}
+
+.content-column {
+    padding-top: 20px;
+}
+
+.content-column img {
+    border-radius: 10%;
+    width: 100%;
+    height: 60%;
+}
+
+/* Tour Section */
+
+
+#tour-section-small-title {
+    font-family: Lexend;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.5px;
+    text-align: left;
+    color: #F59E0B;
+}
+
+#tour-section-big-title {
+    font-family: Lexend;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: left;
+    color: #1B1C57;
+}
+
+#tour-section-summary {
+    font-family: Lexend;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: #626687;
+}
+
+#tour-section-house-title {
+    font-family: Lexend;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: left;
+    color: #1B1C57;
+}
+
+#tour-section-house-details-1 div {
+    font-family: Lexend;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: left;
+    color: #3C4563;
+    padding-top: 20px;
+    
+}
+
+#tour-section-house-details-2 div {
+    font-family: Lexend;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: left;
+    color: #3C4563;
+    padding-top: 10px;
+}
+
+#tour-section-avatar img {
+    width: 150%;
+    border-radius: 100%;
+}
+
+#tour-section-owner-name {
+    font-family: Lexend;
+    font-weight: 500;
+    text-align: left;
+    color: #0E1735;
+}
+
+#tour-section-owner-title {
+    font-family: Lexend;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: left;
+    color:#888B97
+}
+
+#tour-section-contact button {
+    background-color: #10B981;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+}
+
+#tour-section {
+    background: linear-gradient(to left, 
+    rgba(255, 228, 196, 0.3) 15%,
+    rgba(255, 228, 196, 0.1) 35%,
+    rgba(255, 228, 196, 0) 100%
+    );
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#tour-section-image-house1 {
+    position: absolute;
+    width: 488px;
+    height: 416px;
+    left: 832px;
+    top: 1622px;
+
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(image.png);
+    border-radius: 4px;
+
+}
+
+#tour-section-image-house2 {
+    position: absolute;
+    width: 296px;
+    height: 168px;
+    left: 792px;
+    top: 1913px;
+    border-radius: 4px;
+}
+
+#tour-section-image-house3 {
+    position: absolute;
+    width: 96px;
+    height: 80px;
+    left: 1100px;
+    top: 2001px;
+    border-radius: 4px;
+}
+
+#tour-section-image-house4 {
+    position: absolute;
+    width: 96px;
+    height: 80px;
+    left: 1204px;
+    top: 2001px;
+    border-radius: 4px;
+}
+
+/* Home Articles */
+#home-articles {
+    margin-top: 400px;
+    background: radial-gradient(circle at top left, #e7fae0 0%, #b2ebf2 30%, transparent 50%);
+}
+
+#home-articles-small-title {
+    font-family: Lexend;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.5px;
+    text-align: center;
+    color: #F59E0B;
+}
+
+#home-articles-big-title {
+    font-family: Lexend;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: center;
+    color: #1B1C57;
+    text-transform: capitalize;
+}
+
+#homes-articles-button button {
+    background-color: #10B981;
+    position: absolute;
+    right: 47%;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+}
+
+#home-article-owner {
+    margin-top: 80px;  
+}
+
+#home-article-owner-overview {
+    margin-top: 30px;
+}
+
+#home-article-owner-image img {
+    width: 100%;
+    border-radius: 15%;
+}
+
+#home-article-owner-details img {
+    width: 150%;
+    border-radius: 100%;
+}
+
+#home-article-owner-name {
+    font-family: Lexend;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: #3C4563;
+    padding-top: 5px;
+}
+
+#home-articles-detail-title {
+    font-family: Lexend;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left;
+    color: #1B1C57;
+    text-transform: capitalize;
+}
+
+#home-articles-detail-time {
+    font-family: Lexend;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #888B97;
+}
+
+#home-article-owner-right-details {
+    padding-top: 10px;
+}
+
+#home-article-right-image img {
+    width: 70%;
+    height: auto;
+    border-radius: 5%;
+}
+
+#home-article-owner-right-image img {
+    width: 100%;
+    border-radius: 100%;
+}
+
+#home-article-owner-right-name {
+    font-family: Lexend;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: #3C4563;
+    padding-top: 5px;
+}
+
+#home-articles-right-main-title {
+    font-family: Lexend;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left;
+    color:#1B1C57;
+    text-transform: capitalize;
+}
+
+#home-articles-right-main-summary {
+    font-family: Lexend;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #626687
+}
+
+#home-articles-right-main-time {
+    font-family: Lexend;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #888B97;
+}
+
+/* Banner Section */
+#banner-section {
+    background: radial-gradient(circle at top left, #e7fae0 0%, #b2ebf2 30%, transparent 50%);
+    margin-top: 30px;
+    padding: 60px 0px;
+}
+
+#banner-main-area {
+    background: url('./image/banner.png');
+    padding: 100px 0px;
+    border-radius: 32px;
+
+}
+
+#banner-section-title {
+    font-family: Lexend;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: center;
+    color: #1B1C57;
+    text-transform: capitalize;
+}
+
+#banner-section-email {
+    background-color: white;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 5px 20px;
+}
+
+#banner-section-email input {
+    border: none;
+    padding-left: 10px;
+}
+
+#banner-section-email button {
+    border: none;
+    color: white;
+    background-color: #10B981;
+    padding: 10px 20px;
+    margin-left: 12px;
+}
+
+#banner-avatar-1 {
+    position: relative;
+    width: 81px;
+    height: 81px;
+    top: 38px;
+    left: 44px;
+    border: 2px solid #FFFFFF;
+    border-radius: 24px;
+
+}
+
+#banner-avatar-2 {
+    position: relative;
+    width: 70px;
+    height: 70px;
+    bottom: 200px;
+    left: 930px;
+    border: 2px solid #FFFFFF;
+    border-radius: 24px;
+}
+
+#banner-avatar-3 {
+    position: relative;
+    width: 55px;
+    height: 55px;
+    left: 1072px;
+    top: 80px;
+    border: 2px solid #FFFFFF;
+    border-radius: 24px;
+}
+
+#banner-avatar-4 {
+    position: relative;
+    width: 54px;
+    height: 54px;
+    left: 195px;
+    top: 50px;
+    border: 2px solid #FFFFFF;
+    border-radius: 24px;
+
+}
+
+#banner-avatar-5 {
+    position: relative;
+    width: 36px;
+    height: 36px;
+    right: 130px;
+    top: 20px;
+    border: 2px solid #FFFFFF;
+    filter: drop-shadow(0px 9px 32px rgba(89, 92, 219, 0.1));
+    border-radius: 100%;
+}
+
+#banner-avatar-6 {
+    position: relative;
+    width: 36px;
+    height: 36px;
+    left: 100px;
+    bottom: 100px;
+    border: 2px solid #FFFFFF;
+    filter: drop-shadow(0px 9px 32px rgba(89, 92, 219, 0.1));
+    border-radius: 100%;
+}
+
+#banner-avatar-7 {
+    position: relative;
+    width: 36px;
+    height: 36px;
+    left: 700px;
+    bottom: 100px;
+    border: 2px solid #FFFFFF;
+    filter: drop-shadow(0px 9px 32px rgba(89, 92, 219, 0.1));
+    border-radius: 100%;
+}
+
+#banner-avatar-8 {
+    position: relative;
+    width: 36px;
+    height: 36px;
+    left: 850px;
+    bottom: 130px;
+    border: 2px solid #FFFFFF;
+    /* Shadow Smooth 2 */
+    filter: drop-shadow(0px 9px 32px rgba(89, 92, 219, 0.1));
+    border-radius: 100%;
+}
+
+/* Footer */
+
+#footer {
+    background: linear-gradient(to right, #E0F4D4, #FFFFFF 50%, #E0E9FA);
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+#footer-logo {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: capitalize;
+    color: #1B1C57;
+    padding-left: 10px;
+}
+
+#footer-left-content {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #626687;
+    opacity: 0.75;
+}
+
+#footer-left-icon {
+    padding-top: 10px;
+}
+
+.footer-right-title {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: capitalize;
+    color: #0E1735;
+}
+
+.footer-right-content {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: capitalize;
+    color: #888B97;
+    padding-top: 10px;
+}
